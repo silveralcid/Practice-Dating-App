@@ -1,3 +1,5 @@
+Issues and fixes:
+
 Angular still not working because missing npm/ng/node_modules still?!
 Solved by copy pasting the folder from client to npm/ng/
 
