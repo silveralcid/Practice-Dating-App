@@ -9,7 +9,7 @@ public class ApiException
         Details = details;
     }
 
-    public int Status { get; set; }
+    public int StatusCode { get; set; }
 
     public string Message { get; set; }
 
