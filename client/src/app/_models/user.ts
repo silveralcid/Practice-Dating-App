@@ -1,4 +1,4 @@
 export interface User {
-    username: StorageManager;
+    username: string;
     token: string;
 }
