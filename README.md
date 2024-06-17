@@ -1,5 +1,8 @@
 Issues and fixes:
 
+6/17/2024 -
+Profile edit updates not posting.
+
 Angular still not working because missing npm/ng/node_modules still?
 Solved by copy pasting the folder from client to npm/ng/
 
