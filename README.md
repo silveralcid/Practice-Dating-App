@@ -18,11 +18,9 @@
 ### Built With
 
 * Angular
-  
-
 
 ## Project Information
-
+Determined to be prepared for my journey at Western Governer's University, I decided to tackle the technologies I knew was going to be part of the curriculum.
 
 <!-- CONTACT -->
 ## Contact
