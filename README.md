@@ -1,10 +1,30 @@
-Issues and fixes:
+<a id="readme-top"></a>
 
-6/17/2024 -
-Profile edit updates not posting.
+<h3 align="center">Dating App</h3>
 
-Angular still not working because missing npm/ng/node_modules still?
-Solved by copy pasting the folder from client to npm/ng/
+  <p align="center">
+    Practice Project
+    <br />
+    <br />
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
+</div>
 
-Node works but now git is not updating client folder. blue with arrow on github page?
-Solved by delete extra github folder and reorganizing.
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+
+
+### Built With
+
+* Angular
+  
+
+
+## Project Information
+
+
+<!-- CONTACT -->
+## Contact
+
+Silver Alcid - [My Website](https://silveralcid.com) - silveralcid@outlook.com
