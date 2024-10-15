@@ -6,7 +6,7 @@
     Practice Project - Angular and ASP.NET
     <br />
     <br />
-    <a href="https://github.com/silveralcid">View Demo</a>
+    <a href="https://github.com/silveralcid/Practice-Dating-App">View Demo</a>
 </div>
 
 
