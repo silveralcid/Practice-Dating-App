@@ -6,7 +6,7 @@
     Practice Project - Angular and ASP.NET
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/silveralcid">View Demo</a>
 </div>
 
 
